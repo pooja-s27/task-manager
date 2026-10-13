@@ -2,6 +2,13 @@
 
 A full-stack Task Manager application built using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript. It allows users to create, view, update, complete, and delete tasks through a web interface backed by REST APIs.
 
+## Application Screenshots
+
+![Task Manager Interface](screenshots/task-manager.png)
+
+![Task List](screenshots/task-manager-tasks.png)
+
+
 ## Features
 
 - Create and save tasks
